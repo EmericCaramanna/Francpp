@@ -21,8 +21,8 @@
 //#define compl
 //#define concept
 //#define const
-#define expression_const constexpr
-#define lancer_const const_cast
+#define expression_constante constexpr
+#define moulage_constant const_cast
 //#define continue
 #define detecte_type decltype
 #define defaut default
@@ -30,14 +30,14 @@
 #define fait do
 	
 //#define double
-#define lancer_dynamique dynamic_cast
+#define moulage_dynamique dynamic_cast
 #define sinon else
 #define enumeration enum
 #define explicite explicit
 #define exporte export
 #define exterieur extern
 #define faux false
-#define floatant float
+#define flottant float
 #define pour for
 #define ami friend
 #define va_a goto
@@ -61,14 +61,14 @@
 #define publique public
 	
 #define enregistrer register
-#define lancer_reinterprete reinterpret_cast
+#define moulage_reinterprete reinterpret_cast
 #define retourne return
 #define court short
 #define signe signed
 #define taille_de sizeof
 #define statique static
 #define affirmation_statique static_assert
-#define lancer_statique static_cast
+#define moulage_statique static_cast
 //#define struct
 #define aiguillage switch
 #define modele template
